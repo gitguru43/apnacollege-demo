@@ -2,4 +2,4 @@
 This is my first git repository.
 <br>
 
-Author - Robert gitguru
+Author - Robert gitguru (apna college)
