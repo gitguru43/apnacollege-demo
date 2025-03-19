@@ -2,4 +2,4 @@
 This is my first git repository.
 <br>
 
-authore - Robert
+Author - Robert gitguru
